@@ -37,4 +37,4 @@ Because **CostCascade** is completely dependency-free, getting started takes lit
 ---
 *Built with precision and data-driven insights. Default benchmarks modeled on SBP FY25 POS terminal data.*
 
-**Engineered and designed by Umar Inam Asghar.**
+*Credits: Fawad Khan*
